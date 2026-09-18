@@ -1,5 +1,4 @@
-# download_PDF
-# Moodle / iLearning PDF 下載器 📥
+# Moodle / iLearning PDF 下載器 
 
 寫這個工具是因為每次要在學校 Moodle 或 iLearning 上下載講義，檔案都被嵌入在頁面裡面不能直接存，要一直點選或另存新檔很麻煩。
 
