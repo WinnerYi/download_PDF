@@ -1,10 +1,3 @@
-/**
- * @name Universal Moodle PDF Downloader
- * @author Tsai_Yi_Hsun
- * @copyright Copyright (c) 2026 Tsai_Yi_Hsun
- * @license MIT
- */
-
 // ==UserScript==
 // @name         Universal Moodle & PDF Downloader (Safari)
 // @namespace    http://tampermonkey.net/
@@ -13,6 +6,12 @@
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
+
+/**
+ * @author Tsai_Yi_Hsun
+ * @copyright Copyright (c) 2026 Tsai_Yi_Hsun
+ * @license MIT
+ */
 
 (function () {
   
